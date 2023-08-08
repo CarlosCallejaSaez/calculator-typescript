@@ -1,5 +1,7 @@
 # TypeScript Calculator with Styled Components
 
+🚀[Netlify Calculator](https://unique-longma-f7faea.netlify.app)
+
 This is a simple calculator app built with TypeScript and styled with Styled Components.
 
 ## Features
@@ -12,11 +14,11 @@ This is a simple calculator app built with TypeScript and styled with Styled Com
 
 ## Usage
 
-- Click on the number buttons to enter digits.
-- Click on the operator buttons (+, -, *, /) to perform calculations.
-- Click on the equal button (=) to get the result.
-- Click on the clear button (C) to reset the input.
-- Click on the delete button (DEL) to remove the last entered digit.
+Click on the number buttons to enter digits.
+Click on the operator buttons (+, -, *, /) to perform calculations.
+Click on the equal button (=) to get the result.
+Click on the clear button (C) to reset the input.
+Click on the delete button (DEL) to remove the last entered digit.
 
 ## Technologies Used
 
